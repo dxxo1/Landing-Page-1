@@ -1,5 +1,6 @@
 # Landing-Page
-Script open source https://ramdani.io
+
+Template landing page profile HTML5
 
 ## Screenshot
 
