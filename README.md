@@ -3,7 +3,7 @@ Script open source https://ramdani.io
 
 ## Screenshot
 
-<img src="Images/Demo.jpg">
+<img src="Images/demo.png">
 
 ## Support Me 💙
 
